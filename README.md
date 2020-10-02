@@ -1,0 +1,2 @@
+# AnagramCounter
+/// &lt;summary> /// INSTRUCTIONS: /// Write the logic within the Anagram Service class to determine how many anagrams exist in a given list of words. /// The definition of an anagram can be found here: https://www.google.co.za/?#q=definition+of+anagram /// /// The output should list how many anagrams exist for a given character count. /// E.g. Words with the character length of 4 had 5000 anagrams
